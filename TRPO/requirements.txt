@@ -1,0 +1,7 @@
+gymnasium>=0.29.1
+ale-py>=0.8.1
+stable-baselines3>=2.3.0
+sb3-contrib>=2.3.0
+torch>=2.0.0
+numpy>=1.23.0
+tensorboard>=2.10.0
